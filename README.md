@@ -9,10 +9,10 @@ Next.js + React を使用し、実務に近い DB 設計フローを
 ---
 
 ## 🔗 デモ（Vercel）
-https://あなたのURL.vercel.app
+https://shota0208-ddl-editor.vercel.app/
 
 ## 💻 GitHub リポジトリ
-https://github.com/あなたのリポジトリ
+https://github.com/shota0208/shota0208-ddl-editor
 
 ---
 
